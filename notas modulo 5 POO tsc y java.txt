@@ -1,0 +1,7 @@
+skipie la parte de tsc que se hace con varios archivos, un main y se compila el main, y se ejecuta el main.js tal que "node main.js"
+
+// Java
+
+Instalar UML umbrello modeller para modelar diagramas de clases, luego exportar el codigo para usarlo
+
+En eclipse o netbeans, crear el paquete con el nombre de nuestro projecto, crear el main, e importar las clases desde la carpeta donde las hayamos guardado, luego corregir varios pequeños errores de las clases, generar constructores facilmente y uala.

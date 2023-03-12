@@ -1,0 +1,4 @@
+//Generar Constructor con o sin parametros
+Segundo click en el codigo de la clase -> Insert Code -> Constructor
+						      -> Setters y Getters
+
